@@ -1,1 +1,1 @@
-include ':LifeCycles'
+include ':LifeCycles', ':Fragment'
